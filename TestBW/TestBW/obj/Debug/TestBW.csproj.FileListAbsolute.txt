@@ -1,0 +1,9 @@
+c:\users\x421\documents\visual studio 2015\Projects\TestBW\TestBW\bin\Debug\TestBW.exe.config
+c:\users\x421\documents\visual studio 2015\Projects\TestBW\TestBW\bin\Debug\TestBW.exe
+c:\users\x421\documents\visual studio 2015\Projects\TestBW\TestBW\bin\Debug\TestBW.pdb
+c:\users\x421\documents\visual studio 2015\Projects\TestBW\TestBW\obj\Debug\TestBW.csprojResolveAssemblyReference.cache
+c:\users\x421\documents\visual studio 2015\Projects\TestBW\TestBW\obj\Debug\TestBW.Form1.resources
+c:\users\x421\documents\visual studio 2015\Projects\TestBW\TestBW\obj\Debug\TestBW.Properties.Resources.resources
+c:\users\x421\documents\visual studio 2015\Projects\TestBW\TestBW\obj\Debug\TestBW.csproj.GenerateResource.Cache
+c:\users\x421\documents\visual studio 2015\Projects\TestBW\TestBW\obj\Debug\TestBW.exe
+c:\users\x421\documents\visual studio 2015\Projects\TestBW\TestBW\obj\Debug\TestBW.pdb
